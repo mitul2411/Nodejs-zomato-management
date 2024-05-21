@@ -8,7 +8,7 @@
     🍽️🥢🍚 Zomato-like Backend in Node.js 🚀 A powerful Node.js backend for a restaurant delivery platform, enabling efficient order management, user authentication, and real-time tracking. Elevate your restaurant app with this robust backend solution.
     <br/>
     <br/>
-    <a href="https://github.com/AjayDumaraliya19/NODE_JS_ZOMATO_MANAGEMENT"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mitul2411/Nodejs-zomato-management"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
@@ -131,7 +131,7 @@ npm install -g
 3. Set up your MongoDB URI and JWT secret in "config.js".
 
 ```sh
-git clone https://github.com/AjayDumaraliya19/NODE_JS_ZOMATO_MANAGEMENT
+git clone https://github.com/mitul2411/Nodejs-zomato-management
 ```
 
 3. Install NPM packages
@@ -155,4 +155,4 @@ npm install
 
 ## Authors
 
-- **AjayDumaraliya** - _Full stack developer Student_ - [Ajay Dumaraliya](https://github.com/AjayDumaraliya19) - _Built this project_
+- **Mitul Kakadiya** - _Backend developer Student_ - [Mitul Kakadiya](https://github.com/mitul2411) - _Built this project_
